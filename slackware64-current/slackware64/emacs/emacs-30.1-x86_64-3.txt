@@ -1,0 +1,11 @@
+emacs: emacs (GNU Emacs)
+emacs:
+emacs: Emacs is the extensible, customizable, self-documenting real-time
+emacs: display editor. If this seems to be a bit of a mouthful, an easier
+emacs: explanation is that Emacs is a text editor and more. At its core is an
+emacs: interpreter for Emacs Lisp, a dialect of the Lisp programming language
+emacs: with extensions to support text editing.
+emacs:
+emacs: Homepage: http://www.gnu.org/software/emacs/
+emacs:
+emacs:

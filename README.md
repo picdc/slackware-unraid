@@ -1,9 +1,7 @@
-# DEPRECATED
-## This repository is no longer actively maintained
-  
-  
-# Slackware 15.0 Repository
+# Picdc Slackware repository
 
-Test Slackware Repository for un-get, add this line to your `/boot/config/plugins/un-get/sources.list`:
+Contains packages I personally used, use the repository at your own discretion.
 
-`https://raw.githubusercontent.com/ich777/slackware/master/slackware64-15.0/slackware64/ ich777`
+Slackware Repository for un-get, add this line to your `/boot/config/plugins/un-get/sources.list`:
+
+`https://raw.githubusercontent.com/picdc/slackware-unraid/master/slackware64-current/slackware64/ picdc`
